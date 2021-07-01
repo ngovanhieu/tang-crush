@@ -4,7 +4,7 @@ const CONFIG = {
     1 là chuyến xe cuối cùng về nhà 
     2 là người thật lòng yêu thương mình`,
     btnIntro: 'Bấm vào đây nè ... ',
-    title: 'Anh Hy vọng em đừng bỏ lỡ anh😙',
+    title: 'Anh Hy vọng em đừng bỏ lỡ anh 😙',
     desc: 'Do you love me?  ',
     btnYes: ' yess <33',
     btnNo: 'Không, Anh mơ à :3',
