@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Em à, là anh đây anh muốn nói với em vài điều thôi !',
+    introTitle: 'Em à, anh muốn nói với em vài điều thôi !',
     introDesc: `Người ta nói cuộc đời này có hai thứ ta không nên bỏ lỡ
     1 là chuyến xe cuối cùng về nhà 
     2 là người thật lòng yêu thương mình`,
