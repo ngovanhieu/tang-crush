@@ -6,7 +6,7 @@ const CONFIG = {
     btnIntro: 'Bấm vào đây nè ... ',
     title: 'Anh Hy vọng em đừng bỏ lỡ anh 😙',
     desc: 'Do you love me?  ',
-    btnYes: ' yess <33',
+    btnYes: ' yess<33',
     btnNo: 'Không, Anh mơ à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
